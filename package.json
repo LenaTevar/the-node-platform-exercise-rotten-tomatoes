@@ -2,7 +2,7 @@
   "name": "the-node-platform-exercise-rotten-tomatoes",
   "version": "1.0.0",
   "description": "Exercise Server side web development",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
