@@ -47,4 +47,5 @@ Using the built-in time measurement tool `console.time('What I am measuring')` a
 
 ## Solution
 
-https://github.com/CS-LNU-Learning-Objects/SOLUTION-the-node-platform-exercise-rotten-tomatoes
+[Code](
+https://github.com/CS-LNU-Learning-Objects/SOLUTION-the-node-platform-exercise-rotten-tomatoes)

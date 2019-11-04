@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes#readme",
   "dependencies": {
-    "standard": "^14.3.1"
+    "fs-extra": "^8.1.0",
+    "standard": "^14.3.1",
+    "xml2js": "^0.4.22"
   }
 }
