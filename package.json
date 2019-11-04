@@ -1,0 +1,22 @@
+{
+  "name": "the-node-platform-exercise-rotten-tomatoes",
+  "version": "1.0.0",
+  "description": "Exercise Server side web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Helena Tevar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes/issues"
+  },
+  "homepage": "https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes#readme"
+}
