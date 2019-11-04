@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes/issues"
   },
-  "homepage": "https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes#readme"
+  "homepage": "https://github.com/LenaTevar/the-node-platform-exercise-rotten-tomatoes#readme",
+  "dependencies": {
+    "standard": "^14.3.1"
+  }
 }
